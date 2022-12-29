@@ -22,7 +22,7 @@ This is a Telegram bot that allows couriers to manage their deliveries and custo
     TELEGRAM_API_KEY=your_api_key
     CRM_API_KEY=your_api_key
     ```
-3. Start the bot with `bot.py run`
+3. Start the bot with `bot.py`
 
 ## Usage
 

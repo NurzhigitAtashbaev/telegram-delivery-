@@ -1,0 +1,28 @@
+# Ignore files that contain sensitive information
+*.pem
+*.key
+*.venv
+*idea/
+# Ignore compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Ignore database files
+*.sqlite
+*.sqlite3
+*.sqlite-journal
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+build/
+dist/
+target/
+
+# Ignore node modules
+node_modules/
